@@ -5,7 +5,7 @@ Repositório do grupo de estudos de pré processamento de dados
 
 ## Aulas introdutórias:
 >[Introdução a coleta de dados](https://github.com/PANDA-UFSCar/Data_preprocessing/blob/main/Coleta_de_Dados.ipynb)
-
+>[Introdução a limpeza de dados](https://github.com/PANDA-UFSCar/Data_preprocessing/blob/main/Limpeza_de_Dados_PANDA.ipynb)
 ## Materiais interessantes:
 ### Videos:
 
