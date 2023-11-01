@@ -9,6 +9,10 @@ Repositório do grupo de estudos de pré processamento de dados
 >[Introdução a limpeza de dados](https://github.com/PANDA-UFSCar/Data_preprocessing/blob/main/Limpeza_de_Dados_PANDA.ipynb)
 >
 >[Transformação de dados](https://github.com/PANDA-UFSCar/Data_preprocessing/blob/main/transformação_de_dados.ipynb)
+>
+>[Manipulação de texto](https://github.com/PANDA-UFSCar/Data_preprocessing/blob/main/Manipulação_de_Texto.ipynb)
+>
+>[Manipulação de dados categóricos](https://github.com/PANDA-UFSCar/Data_preprocessing/blob/main/Tratamento_de_Dados_Categóricos_PANDA.ipynb)
 ## Materiais interessantes:
 ### Videos:
 
